@@ -5,7 +5,7 @@
     "version" : "24.3.0.0"
   },
   "schemas" : [ "HR" ],
-  "lastReleaseVersion" : "",
+  "lastReleaseVersion" : "1.0",
   "export" : {
     "format" : {
       "enable" : true
